@@ -148,12 +148,12 @@ Atividade Prática de **Fundamentos da Programação Web** — Portfólio Pessoa
 
 <div align="center">
 
-```
-2023  ━━━━━━━━━━━━━━━━  Início no GitHub • DIO Bootcamp • Python
-2024  ━━━━━━━━━━━━━━━━  JavaScript • Lógica de Programação • Desafios DIO
-2025  ━━━━━━━━━━━━━━━━  Java • Spring Boot • APIs RESTful • IA com Ollama
-2026  ━━━━━━━━━━━━━━━━  CrewAI Agents • Bootcamp Uninter • Portfólio Web
-```
+| Ano | Marcos |
+|:---:|:---|
+| **2026** | 🤖 CrewAI Agents &nbsp;•&nbsp; 🎓 Bootcamp Uninter &nbsp;•&nbsp; 🌐 Portfólio Web |
+| **2025** | ☕ Java &nbsp;•&nbsp; 🍃 Spring Boot &nbsp;•&nbsp; 🔌 APIs RESTful &nbsp;•&nbsp; 🧠 IA com Ollama |
+| **2024** | 🟡 JavaScript &nbsp;•&nbsp; 🧩 Lógica de Programação &nbsp;•&nbsp; 🏆 Desafios DIO |
+| **2023** | 🚀 Início no GitHub &nbsp;•&nbsp; 📚 DIO Bootcamp &nbsp;•&nbsp; 🐍 Python |
 
 </div>
 
