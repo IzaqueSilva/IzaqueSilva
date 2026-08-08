@@ -82,20 +82,44 @@ interesses:
 ## 🚀 &nbsp;Projetos em Destaque
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/IzaqueSilva/lol-champions-ai-chat">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IzaqueSilva&repo=lol-champions-ai-chat&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/IzaqueSilva/ai-agent-career-mentor">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IzaqueSilva&repo=ai-agent-career-mentor&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/IzaqueSilva/Bootcamp-I-">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IzaqueSilva&repo=Bootcamp-I-&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/IzaqueSilva/Portifolio-uninter">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=IzaqueSilva&repo=Portifolio-uninter&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
+### 🤖 [lol-champions-ai-chat](https://github.com/IzaqueSilva/lol-champions-ai-chat)
+API RESTful com **Spring Boot** e **Java 21** integrando IA 100% local e gratuita via **Ollama (Llama 3.2)**. Desenvolvido na Santander Dev Week 2024.
 
+🟠 Java &nbsp;&nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white) ![AI](https://img.shields.io/badge/Ollama_AI-black?style=flat-square&logo=ollama&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🧠 [ai-agent-career-mentor](https://github.com/IzaqueSilva/ai-agent-career-mentor)
+Agente de IA com **CrewAI** que orienta alunos sobre carreiras em tecnologia disponíveis na DIO. Licença MIT.
+
+🔵 Python &nbsp;&nbsp; ![CrewAI](https://img.shields.io/badge/CrewAI-412991?style=flat-square&logo=openai&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-green?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 [Bootcamp-I-](https://github.com/IzaqueSilva/Bootcamp-I-)
+Bootcamp I da **Uninter** — projetos práticos de desenvolvimento com JavaScript, consolidando fundamentos de programação.
+
+🟡 JavaScript &nbsp;&nbsp; ![Uninter](https://img.shields.io/badge/Uninter-0d1117?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🌐 [Portifolio-uninter](https://github.com/IzaqueSilva/Portifolio-uninter)
+Atividade Prática de **Fundamentos da Programação Web** — Portfólio Pessoal publicado no GitHub Pages.
+
+🔴 HTML &nbsp;&nbsp; [![Live](https://img.shields.io/badge/🔗_Ver_Online-6e40c9?style=flat-square)](https://izaquesilva.github.io/Portifolio-uninter/)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -104,31 +128,17 @@ interesses:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IzaqueSilva&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IzaqueSilva&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaqueSilva&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IzaqueSilva&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=IzaqueSilva&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
+<img width="700" src="https://streak-stats.demolab.com/?user=IzaqueSilva&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
 
 <br/><br/>
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=IzaqueSilva&bg_color=0d1117&color=8b949e&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=false&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%9Altimos%2031%20Dias" />
-
-</div>
-
----
-
-## 🐍 &nbsp;Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzaqueSilva/IzaqueSilva/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzaqueSilva/IzaqueSilva/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IzaqueSilva/IzaqueSilva/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
