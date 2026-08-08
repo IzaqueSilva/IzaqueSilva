@@ -4,6 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Izaque%20Silva&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20JavaScript&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
+
+<img src="https://avatars.githubusercontent.com/u/136736437?v=4" width="160" style="border-radius: 50%;" alt="Izaque Silva"/>
+
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construindo+solu%C3%A7%C3%B5es+rob%C3%BAstas+no+back-end;Apaixonado+por+APIs+RESTful+%26+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
 </a>
@@ -13,6 +18,10 @@
 <!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/IzaqueSilva)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/izaque-silva/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=IzaqueSilva&color=6e40c9&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views" />
 
 </div>
 
@@ -134,7 +143,7 @@ Atividade Prática de **Fundamentos da Programação Web** — Portfólio Pessoa
 
 <br/><br/>
 
-<img width="700" src="https://streak-stats.demolab.com/?user=IzaqueSilva&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
+<img width="700" src="https://streak-stats.demolab.com/?user=IzaqueSilva&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&locale=pt_BR" />
 
 <br/><br/>
 
@@ -170,10 +179,6 @@ Atividade Prática de **Fundamentos da Programação Web** — Portfólio Pessoa
 [![Portfolio](https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=6e40c9)](https://izaquesilva.github.io/Portifolio-uninter/)
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=IzaqueSilva&color=6e40c9&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
 
