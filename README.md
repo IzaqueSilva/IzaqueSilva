@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 
-<img src="https://avatars.githubusercontent.com/u/136736437?v=4" width="160" style="border-radius: 50%;" alt="Izaque Silva"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/136736437?v=4&w=160&h=160&fit=cover&mask=circle" width="160" alt="Izaque Silva"/>
 
 <br/>
 
