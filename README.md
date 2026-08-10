@@ -137,9 +137,9 @@ Atividade Prática de **Fundamentos da Programação Web** — Portfólio Pessoa
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IzaqueSilva&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IzaqueSilva&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IzaqueSilva&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaqueSilva&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
