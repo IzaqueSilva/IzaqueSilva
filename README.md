@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Izaque%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Python&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- FOTO DE PERFIL -->
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/136736437?v=4&w=160&h=160&fit=cover&mask=circle" width="160" alt="Izaque Silva"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/136736437?v=4&w=400&h=400&fit=cover&mask=circle&q=100" width="160" alt="Izaque Silva"/>
 
 <br/>
 
