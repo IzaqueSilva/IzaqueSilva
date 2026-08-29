@@ -31,7 +31,7 @@
 
 ```yaml
 nome: Izaque de Brito Silva
-cargo: Desenvolvedor Back-End em Formação
+cargo: Desenvolvedor Back-End 
 localização: Maranhão, Brasil
 formação: Engenharia de Software | Uninter
 foco_atual:
@@ -137,7 +137,7 @@ objetivo: Estágio em Desenvolvimento Back-End
 
 <div align="center">
 
-Estou aberto a oportunidades de **estágio** e **posições júnior** em desenvolvimento back-end.
+Estou aberto a oportunidades de **estágio** e **cargos Junior** em desenvolvimento back-end.
 Se você tem uma vaga ou quer trocar uma ideia sobre tecnologia, me chama!
 
 <br/>
