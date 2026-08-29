@@ -128,9 +128,6 @@ objetivo: Estágio em Desenvolvimento Back-End
 </picture>
 
 </div>
-
-> ⚙️ *Para ativar a animação da snake, siga [este guia](https://github.com/Platane/snk) e configure uma GitHub Action no repositório do perfil.*
-
 ---
 
 ## 📬 &nbsp;Contato
